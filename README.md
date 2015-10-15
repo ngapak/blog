@@ -1,2 +1,4 @@
-# Uploaded by ngapak
-Blog script collection
+# Master Blog Script
+
+Name             : Blog script collection
+Uploaded By      : ngapak
